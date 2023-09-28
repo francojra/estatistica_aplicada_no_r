@@ -1,3 +1,13 @@
 # Estatística Aplicada no R
 
-Script com informações sobre manipulação de tabelas, dados, produção de gráficos e relatórios no R. Utilizei como referência o vídeo: https://www.youtube.com/watch?v=-XVQuVmlJyI
+#### Estatística Aplicada com R
+#### Autora do script: Jeanne Franco
+#### Data: 27/09/23
+#### Referência: https://www.youtube.com/watch?v=-XVQuVmlJyI
+
+### Tópicos do script
+
+1. O que aprender?;
+2. Iniciando a prática;
+3. Dicas;
+4. Principais ambientes do R;
