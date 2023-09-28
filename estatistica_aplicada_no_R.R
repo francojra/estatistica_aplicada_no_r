@@ -64,3 +64,14 @@ lista_num
 ### 5. Packages: pacotes do R que estão instalados e que apresentam
 ### funções para as análises.
 ### 6. Help: local onde estãos os documentos sobre pacotes e funções.
+
+# Acessando posições em um conjunto de valores ---------------------------------------------------------------------------------------------
+
+vetor <- c(5, 2, 1, 3, 9)
+vetor
+
+vetor[1:3] # acesando os valores entre as posições 1 e 3
+vetor[4] # acessa o quarto elemento do conjunto
+vetor[c(5,3)] # acessa os valores das posições 5 e 3
+vetor[4] <- 80 # atribui o novo valor 80 à posição 4 do conjunto de dados
+vetor
