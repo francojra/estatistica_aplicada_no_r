@@ -33,3 +33,11 @@ a # verificar o que tem no objeto
 b <- c(3, 5, 6, 2) # conjunto (c) de valores no objeto b
 b
 sum(b) # função de soma
+rm(b) # função para remover o objeto b
+
+# Dicas ------------------------------------------------------------------------------------------------------------------------------------
+
+### Use um novo script (new file) para deixar todos seus códigos salvos;
+### Utilize as teclas ctrl + l para limpar os dados do console;
+### Tools -> Global options -> Appearance: para mudar, tema, tamanho
+### de fonte, tipo de letra, etc.
