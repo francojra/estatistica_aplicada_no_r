@@ -30,10 +30,18 @@ a # verificar o que tem no objeto
 
 ### Funções
 
-b <- c(3, 5, 6, 2) # conjunto (c) de valores no objeto b
+b <- c(3, 5, 6, 2) # conjunto de valores salvos em um vetor 'b'
 b
 sum(b) # função de soma
+sum(3, 5, 7, 2) # outra forma de usar a função
 rm(b) # função para remover o objeto b
+
+### Conjuntos numéricos ou listas são criadas usando o c() de combine
+
+lista_alfab <- c('f', 'd', 'g', 'a', 't') 
+lista_alfab
+lista_num <- c(5, 3, 7, 2)
+lista_num
 
 # Dicas ------------------------------------------------------------------------------------------------------------------------------------
 
