@@ -75,3 +75,12 @@ vetor[4] # acessa o quarto elemento do conjunto
 vetor[c(5,3)] # acessa os valores das posições 5 e 3
 vetor[4] <- 80 # atribui o novo valor 80 à posição 4 do conjunto de dados
 vetor
+vetor < 5 # verifica cada valor do conjunto e atribui True ou False 
+
+# Função ifelse( ) - "Se ou então" ---------------------------------------------------------------------------------------------------------
+
+vetor
+
+ifelse(test = vetor > 4, 
+       "Esse valor é maior que 4", 
+       "Esse valor não é maior que 4")
