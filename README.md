@@ -11,3 +11,6 @@
 2. Iniciando a prática;
 3. Dicas;
 4. Principais ambientes do R;
+5. Acessando posições em um conjunto de valores;
+6. Função ifelse( ) - "Se ou então";
+7. Criando tabelas - data.frame( ).
