@@ -84,3 +84,15 @@ vetor
 ifelse(test = vetor > 4, 
        "Esse valor é maior que 4", 
        "Esse valor não é maior que 4")
+
+# Criando tabelas - data.frame( ) ----------------------------------------------------------------------------------------------------------
+
+vetor
+
+resultado <- ifelse(test = vetor > 70, 
+       "Risco", 
+       "Seguro")
+resultado
+
+tabela <- data.frame(valores = vetor, resultados = resultado)
+tabela
