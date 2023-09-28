@@ -41,3 +41,14 @@ rm(b) # função para remover o objeto b
 ### Utilize as teclas ctrl + l para limpar os dados do console;
 ### Tools -> Global options -> Appearance: para mudar, tema, tamanho
 ### de fonte, tipo de letra, etc.
+
+# Principais ambientes do R ----------------------------------------------------------------------------------------------------------------
+
+### 1. Console: local onde estão os resultados os códigos;
+### 2. Script: local onde ficam todos os códigos, documeto que pode ser salvo;
+### 3. Files: arquivos e pastas do diretório de trabalho, onde poderão
+### ficar salvos seus scripts, documentos, tabelas e gráficos;
+### 4. Plots: local onde ficarão os gráficos produzidos pelos códigos;
+### 5. Packages: pacotes do R que estão instalados e que apresentam
+### funções para as análises.
+### 6. Help: local onde estãos os documentos sobre pacotes e funções.
