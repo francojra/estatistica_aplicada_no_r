@@ -40,7 +40,11 @@ rm(b) # função para remover o objeto b
 ### Use um novo script (new file) para deixar todos seus códigos salvos;
 ### Utilize as teclas ctrl + l para limpar os dados do console;
 ### Tools -> Global options -> Appearance: para mudar, tema, tamanho
-### de fonte, tipo de letra, etc.
+### de fonte, tipo de letra, etc;
+### Crie um projeto no RStudio para salvar todos arquivos em um único
+### diretório;
+### Dentro do projeto crie as seguintes pastas: 'dados', 'resultados'
+### e 'scripts'.
 
 # Principais ambientes do R ----------------------------------------------------------------------------------------------------------------
 
