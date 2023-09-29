@@ -103,4 +103,18 @@ list(vetor, tabela) # lista cada os elementos de cada argumento na função
 
 # Tipos de objetos e pacotes ---------------------------------------------------------------------------------------------------------------
 
+### Números, vetores, dataframes (tabelas), listas, matrizes
+
+### Objetos
+### - Numéricos (num ou dbl)
+### - Caracter (chr)
+### - Inteiro (int)
+### - Lógico (lgl - True ou False)
+
+class(vetor)
+class(lista_alfab)
+class(resultado)
+class(tabela)
+class(list(vetor, tabela))
+class(matrix(vetor, 4, 5))
 
