@@ -13,4 +13,6 @@
 4. Principais ambientes do R;
 5. Acessando posições em um conjunto de valores;
 6. Função ifelse( ) - "Se ou então";
-7. Criando tabelas - data.frame( ).
+7. Criando tabelas - data.frame( );
+8. Listas;
+9. Tipos de objetos e pacotes.
