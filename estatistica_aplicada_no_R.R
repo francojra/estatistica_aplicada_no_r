@@ -38,9 +38,9 @@ rm(b) # função para remover o objeto b
 
 ### Conjuntos numéricos ou listas são criadas usando o c() de combine
 
-lista_alfab <- c('f', 'd', 'g', 'a', 't') 
+lista_alfab <- c('f', 'd', 'g', 'a', 't') # lista de caracteres
 lista_alfab
-lista_num <- c(5, 3, 7, 2)
+lista_num <- c(5, 3, 7, 2) # lista com números
 lista_num
 
 # Dicas ------------------------------------------------------------------------------------------------------------------------------------
@@ -90,9 +90,17 @@ ifelse(test = vetor > 4,
 vetor
 
 resultado <- ifelse(test = vetor > 70, 
-       "Risco", 
-       "Seguro")
+                     "Risco", 
+                     "Seguro")
 resultado
 
 tabela <- data.frame(valores = vetor, resultados = resultado)
 tabela
+
+# Listas -----------------------------------------------------------------------------------------------------------------------------------
+
+list(vetor, tabela) # lista cada os elementos de cada argumento na função
+
+# Tipos de objetos e pacotes ---------------------------------------------------------------------------------------------------------------
+
+
