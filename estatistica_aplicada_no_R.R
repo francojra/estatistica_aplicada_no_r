@@ -117,4 +117,16 @@ class(resultado)
 class(tabela)
 class(list(vetor, tabela))
 class(matrix(vetor, 4, 5))
+str(tabela) # mostra toda a estrutura (structure) da tabela
 
+### Os pacotes são bibliotecas com conjuntos de funções criadas para
+### facilitar operações ou análises desejadas. Algumas bibliotecas
+### já vem instaladas no R-base e outras precisam ser instaladas no CRAN.
+
+### - Função install.packages()
+### - Função library()
+
+### Para ler funções do pacote
+
+readxl::
+readxl::read_xlsx()
